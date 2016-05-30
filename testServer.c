@@ -1,11 +1,3 @@
-  /*
- * Copyright 2014
- *
- * Author: 		Dinux
- * Description:		Simple chatroom in C
- * Version:		1.0
- *
- */
 
 #include <sys/socket.h>
 #include <netinet/in.h>
